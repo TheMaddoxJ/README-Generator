@@ -1,6 +1,6 @@
-# 09 Node.js Challenge: Professional README Generator
+# Node.js: Professional README Generator
 
-## Your Task
+## Task
 
 The task for this challenge is to create a README.md Generator using the command line.
 This will allow faster creation of readme files for developers who want quality README's in a timely manner.
